@@ -1,6 +1,6 @@
 ## Probability_project
 
-#Longterm relative frequency of probability Visualisation
+# Longterm relative frequency of probability Visualisation
 
 -After my first semester, I started a project based on my programming module to demonstrate the
 long-term relative frequency of probability, a topic taught in Statistics. Using Python, I simulated
@@ -34,10 +34,15 @@ Numbers.
 ## Usage
 1. Run the program:
 2. Follow the on-screen menu to select an option:
+   
   Roll die: Roll the die a specified number of times.
+  
   Visual representation: Display a bar chart showing the relative frequency of each die face.
+  
   Show data: Print the list of all die rolls.
+  
   Show stats: Display statistical information about the die rolls.
+  
   Exit: Exit the program.
 
 
