@@ -1,6 +1,7 @@
 ## Probability_project
 
 #Longterm relative frequency of probability Visualisation
+
 -After my first semester, I started a project based on my programming module to demonstrate the
 long-term relative frequency of probability, a topic taught in Statistics. Using Python, I simulated
 thousands of dice rolls and visualized the results with Matplotlib. This project showed how the probability
