@@ -26,8 +26,9 @@ Numbers.
 2. Ensure you have Python 3.x installed.
 3. Install the required libraries:
 
-```bash
-pip install matplotlib pandas
+```pip3 install matplotlib pandas``` bash
+
+
 
 ## Usage
 1. Run the program:
@@ -37,3 +38,10 @@ pip install matplotlib pandas
   Show data: Print the list of all die rolls.
   Show stats: Display statistical information about the die rolls.
   Exit: Exit the program.
+
+
+ 
+
+
+
+
