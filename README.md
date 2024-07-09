@@ -35,15 +35,15 @@ Numbers.
 1. Run the program:
 2. Follow the on-screen menu to select an option:
    
-  Roll die: Roll the die a specified number of times.
+  - Roll die: Roll the die a specified number of times.
   
-  Visual representation: Display a bar chart showing the relative frequency of each die face.
+   - Visual representation: Display a bar chart showing the relative frequency of each die face.
   
-  Show data: Print the list of all die rolls.
+  - Show data: Print the list of all die rolls.
   
-  Show stats: Display statistical information about the die rolls.
+  - Show stats: Display statistical information about the die rolls.
   
-  Exit: Exit the program.
+- Exit: Exit the program.
 
 
  
